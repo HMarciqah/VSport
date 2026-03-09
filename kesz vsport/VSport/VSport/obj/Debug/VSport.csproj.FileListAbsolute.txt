@@ -1,0 +1,15 @@
+C:\Users\User\HMB\kesz vsport\VSport\VSport\obj\Debug\VSport.csproj.AssemblyReference.cache
+C:\Users\User\HMB\kesz vsport\VSport\VSport\obj\Debug\MainWindow.baml
+C:\Users\User\HMB\kesz vsport\VSport\VSport\obj\Debug\MainWindow.g.cs
+C:\Users\User\HMB\kesz vsport\VSport\VSport\obj\Debug\App.g.cs
+C:\Users\User\HMB\kesz vsport\VSport\VSport\obj\Debug\VSport_MarkupCompile.cache
+C:\Users\User\HMB\kesz vsport\VSport\VSport\obj\Debug\VSport.g.resources
+C:\Users\User\HMB\kesz vsport\VSport\VSport\obj\Debug\VSport.Properties.Resources.resources
+C:\Users\User\HMB\kesz vsport\VSport\VSport\obj\Debug\VSport.csproj.GenerateResource.cache
+C:\Users\User\HMB\kesz vsport\VSport\VSport\obj\Debug\VSport.csproj.CoreCompileInputs.cache
+C:\Users\User\HMB\kesz vsport\VSport\VSport\bin\Debug\VSport.exe.config
+C:\Users\User\HMB\kesz vsport\VSport\VSport\bin\Debug\VSport.exe
+C:\Users\User\HMB\kesz vsport\VSport\VSport\bin\Debug\VSport.pdb
+C:\Users\User\HMB\kesz vsport\VSport\VSport\obj\Debug\VSport.exe
+C:\Users\User\HMB\kesz vsport\VSport\VSport\obj\Debug\VSport.pdb
+C:\Users\User\HMB\kesz vsport\VSport\VSport\obj\Debug\VSport.exe.config
